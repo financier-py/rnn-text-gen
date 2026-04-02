@@ -81,3 +81,9 @@ uv run src/generate.py
 * PyTorch
 * Weights & Biases
 * Uv
+
+## Какие-то графики с W&B:
+
+[![W&amp;amp;B Chart 02.04.2026, 17 15 41](https://s3.firstvds.ru/fotohosting/2026/04/02/WB-Chart-02.04.2026-17_15_41.png)](https://fotohosting.pro/i/WB-Chart-02.04.2026%2C-17-15-41.78X65Y)
+
+[![W&amp;amp;B Chart 02.04.2026, 17 15 54](https://s3.firstvds.ru/fotohosting/2026/04/02/WB-Chart-02.04.2026-17_15_54.png)](https://fotohosting.pro/i/WB-Chart-02.04.2026%2C-17-15-54.78XC8q)

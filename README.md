@@ -21,7 +21,7 @@ Deep learning проект, в котором реализована и обуч
 
 ```bash
 # Клонирование репозитория
-git clone [https://github.com/financier-py/rnn-text-gen.git](https://github.com/financier-py/rnn-text-gen.git)
+git clone https://github.com/financier-py/rnn-text-gen.git
 cd rnn-text-gen
 
 # Установка зависимостей

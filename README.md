@@ -30,7 +30,7 @@ uv sync
 
 ### 2. Подготовка данных
 
-Очищает текст и генерирует словарь символов. Результат сохраняется в `data/processed/` $:)$
+Очищаем текст и генерируем словарь символов. Результат сохраняется в `data/processed/` $:)$
 
 ```bash
 uv run src/preprocess.py
@@ -46,7 +46,7 @@ uv run src/train.py
 
 ### 4. Генерация текста
 
-После заверщения обучения, все веса сохраняются в `checkpoints/`. Вот они и будут использоваться далее для генерации как раз. Тут вы еще можете поиграться с температурой и с начальной фраза.
+После заверщения обучения, все веса сохраняются в `checkpoints/`. Вот они и будут использоваться далее для генерации как раз. Тут вы еще можете поиграться с температурой и с начальной фразой.
 
 ```bash
 uv run src/generate.py
@@ -87,3 +87,11 @@ uv run src/generate.py
 [![W&amp;amp;B Chart 02.04.2026, 17 15 41](https://s3.firstvds.ru/fotohosting/2026/04/02/WB-Chart-02.04.2026-17_15_41.png)](https://fotohosting.pro/i/WB-Chart-02.04.2026%2C-17-15-41.78X65Y)
 
 [![W&amp;amp;B Chart 02.04.2026, 17 15 54](https://s3.firstvds.ru/fotohosting/2026/04/02/WB-Chart-02.04.2026-17_15_54.png)](https://fotohosting.pro/i/WB-Chart-02.04.2026%2C-17-15-54.78XC8q)
+
+## Мои графики:
+
+[![image](https://s3.firstvds.ru/fotohosting/2026/04/02/imagede320e917562096b.png)](https://fotohosting.pro/i/image.78an6Q)
+
+[![image](https://s3.firstvds.ru/fotohosting/2026/04/02/image95628fce0b69226b.png)](https://fotohosting.pro/i/image.78arJ2)
+
+[![image](https://s3.firstvds.ru/fotohosting/2026/04/02/image2b7b6977c3d395db.png)](https://fotohosting.pro/i/image.78aV8o)

@@ -14,9 +14,13 @@ env/
 # Data
 data/
 models/
+wandb/
+checkpoints/
 
 # IDE
 .vscode/
 .DS_Store
 
 .ipynb_checkpoints/
+
+*.rar
